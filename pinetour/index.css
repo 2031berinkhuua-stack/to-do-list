@@ -1,0 +1,263 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.body {
+  background-image: url("./HeroImage.png");
+ width: 1440px;
+ height: 773px;
+}
+.circle {
+  width: 40px;
+  height: 40px;
+  background-color: aliceblue;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+    width: 100px;
+    height: 34px;
+}
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 33px 118px;
+}
+.n{
+    color: white;
+    display: flex;
+    gap: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px;
+}
+.P{
+    opacity: 0.5;
+}
+.P1{
+    opacity: 0.9;
+}
+.two{
+    width: 1440px;
+    height: 500px;
+    background-image: url(Location\ image.png);
+}
+.twoo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: xx-large;
+    padding: 25px;
+    text-shadow: 10px;
+}
+.a1{
+    width: 280px;
+    height: 385px;
+    background-image: url(1.png);
+    background-position: center;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+}
+.a2{
+    width: 280px;
+    height: 385px;
+    background-image: url(2.png);
+    background-position: center;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+}
+.a3{
+    width: 280px;
+    height: 385px;  
+    background-image: url(3.png);
+    background-position: center;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+}
+.a4{
+    width: 280px;
+    height: 385px;
+    background-image: url(4.png);
+    background-position: center;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+}
+.three{
+    width: 1440px;
+    height: 1022px;
+    background-image: url(Roadmap\ image.png);
+    background-position: center;
+    gap: 50px;
+}
+.title2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title21{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo1{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle1{
+    width: 52px;
+    height: 52px;
+    background-color: white;
+    border-radius: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+}
+.tour1{
+    width: 513px;
+    height: 112px;
+    border-radius: 60px;
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: x-large
+}
+.tour2{
+    width: 513px;
+    height: 112px;
+    border-radius: 60px;
+    background-color: rgb(107, 192, 192);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: x-large
+}
+.tour3{
+    width: 513px;
+    height: 112px;
+    border-radius: 60px;
+    background-color: rgb(133, 208, 211);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: x-large
+}
+.tour4{
+    width: 513px;
+    height: 112px;
+    border-radius: 60px;
+    background-color: rgb(107, 192, 192);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: x-large
+}
+.tour5{
+    width: 513px;
+    height: 112px;
+    border-radius: 60px;
+    background-color: rgb(154, 242, 244);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: x-large;
+    
+    
+}
+.tourcon{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.four{
+    width: 1440px;
+    height: 1120px;
+    background-image: url(Price&Footer\ image.png);
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
+}
+.title3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+.Container{
+    width: 1324px;
+    height: 527px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card{
+    width: 384px;
+    height: 527px;
+    background-color: white;
+    border-radius: 45px;
+    
+}
+.logo2{
+    width: 101px;
+    height: 35px;
+}
+.media{
+    width: 167px;
+    height: 44px;
+    background-color: white;
+    border-radius: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    row-gap: 10px;
+    color: darkslateblue;
+}
+.logo3{
+    width: 20px;
+    height: 20px;
+}
+.logo4{
+    width: 20px;
+    height: 20px;
+}
+.adad{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
