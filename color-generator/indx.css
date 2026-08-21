@@ -1,0 +1,12 @@
+.button{
+    width: 100px;
+    height: 35px;
+    font-family: cursive;
+}
+.text{
+    color: white;
+    font-family: cursive;
+}
+.background{
+    background-color: blue;
+}
